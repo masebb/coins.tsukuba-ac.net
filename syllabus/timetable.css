@@ -1,0 +1,102 @@
+.fixed {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    background: #FECEF4;
+}
+
+.core {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    background: #92D050;
+}
+
+.elective {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    background: #EBF1DE;
+}
+
+.common {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    background: #EBF1DE;
+}
+
+.soft {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    background: #FFFF7F;
+}
+
+.sys {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    background: #FDE9D9;
+}
+
+.media {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    background: #B7DEE8;
+}
+
+.teaching {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    background: #B1A0C7;
+}
+
+table.ex_table {
+    border-collapse: collapse;
+    border: 0;
+}
+
+table.ex_table th {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+table.ex_table th.ex_t {
+    border-top: 2px solid black;
+    padding: 4px;
+}
+
+table.ex_table th.ex_b {
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+
+table.ex_table th.ex_tb {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+
+table.ex_table td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+table.ex_table td.ex_t {
+    border-top: 2px solid black;
+    padding: 4px;
+}
+
+table.ex_table td.ex_b {
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+
+table.ex_table td.ex_tb {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
